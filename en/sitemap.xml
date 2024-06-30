@@ -2,375 +2,375 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TengxuanHOU.github.io.git/</loc>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-06-29T18:25:26+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-29T18:25:26+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/post/</loc>
-    <lastmod>2024-06-29T18:25:26+09:00</lastmod>
-  </url><url>
-    <loc>https://TengxuanHOU.github.io.git/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/authors/"
+                href="http://localhost:1313/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/authors/"
+                href="http://localhost:1313/authors/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/categories/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/css/"
+                href="http://localhost:1313/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/css/"
+                href="http://localhost:1313/tags/css/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/html/"
+                href="http://localhost:1313/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/html/"
+                href="http://localhost:1313/tags/html/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/hugo/"
+                href="http://localhost:1313/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/hugo/"
+                href="http://localhost:1313/tags/hugo/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/authors/lone-coder/</loc>
+    <loc>http://localhost:1313/authors/lone-coder/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/authors/lone-coder/"
+                href="http://localhost:1313/pt-br/authors/lone-coder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/authors/lone-coder/"
+                href="http://localhost:1313/authors/lone-coder/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/markdown/"
+                href="http://localhost:1313/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/markdown/"
+                href="http://localhost:1313/tags/markdown/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/markdown-syntax/"
+                href="http://localhost:1313/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/markdown-syntax/"
+                href="http://localhost:1313/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/"
+                href="http://localhost:1313/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/series/"
+                href="http://localhost:1313/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/categories/syntax/</loc>
+    <loc>http://localhost:1313/categories/syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/categoria/sintaxe/"
+                href="http://localhost:1313/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/categories/syntax/"
+                href="http://localhost:1313/categories/syntax/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/series/theme-demo/</loc>
+    <loc>http://localhost:1313/series/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/categories/theme-demo/</loc>
+    <loc>http://localhost:1313/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/rich-content/</loc>
+    <loc>http://localhost:1313/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/rich-content/"
+                href="http://localhost:1313/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/rich-content/"
+                href="http://localhost:1313/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/shortcodes/"
+                href="http://localhost:1313/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/shortcodes/"
+                href="http://localhost:1313/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/more-rich-content/</loc>
+    <loc>http://localhost:1313/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/more-rich-content/"
+                href="http://localhost:1313/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/more-rich-content/"
+                href="http://localhost:1313/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/math-typesetting/"
+                href="http://localhost:1313/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/math-typesetting/"
+                href="http://localhost:1313/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/html-and-css-only-tabs/</loc>
+    <loc>http://localhost:1313/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/pt-br/posts/html-and-css-only-tabs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/posts/html-and-css-only-tabs/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/mermaid-support/</loc>
+    <loc>http://localhost:1313/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/mermaid-support/"
+                href="http://localhost:1313/pt-br/posts/mermaid-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/mermaid-support/"
+                href="http://localhost:1313/posts/mermaid-support/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/emoji/</loc>
+    <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/emoji/"
+                href="http://localhost:1313/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/emoji/"
+                href="http://localhost:1313/tags/emoji/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/emoji-support/</loc>
+    <loc>http://localhost:1313/posts/emoji-support/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/emoji-support/"
+                href="http://localhost:1313/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/emoji-support/"
+                href="http://localhost:1313/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/hugo-coder-wiki/</loc>
+    <loc>http://localhost:1313/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/hugo-coder-wiki/"
+                href="http://localhost:1313/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/hugo-coder-wiki/"
+                href="http://localhost:1313/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/posts/placeholder-text/"
+                href="http://localhost:1313/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/posts/placeholder-text/"
+                href="http://localhost:1313/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/tags/text/</loc>
+    <loc>http://localhost:1313/tags/text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/tags/text/"
+                href="http://localhost:1313/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/tags/text/"
+                href="http://localhost:1313/tags/text/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/authors/hugo-authors/</loc>
+    <loc>http://localhost:1313/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/autores/autores-de-hugo/"
+                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/authors/hugo-authors/"
+                href="http://localhost:1313/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/about/"
+                href="http://localhost:1313/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/contact/"
+                href="http://localhost:1313/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://TengxuanHOU.github.io.git/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://TengxuanHOU.github.io.git/pt-br/projects/"
+                href="http://localhost:1313/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TengxuanHOU.github.io.git/projects/"
+                href="http://localhost:1313/projects/"
                 />
   </url>
 </urlset>
