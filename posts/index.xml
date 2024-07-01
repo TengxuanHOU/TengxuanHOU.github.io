@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TengxuanHOU</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://TengxuanHOU.github.io.git/posts/</link>
     <description>Recent content in Posts on TengxuanHOU</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jul 2024 11:09:50 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ColorAppearancePhenomena</title>
-      <link>http://localhost:1313/posts/colorappearancephenomena/</link>
-      <pubDate>Mon, 01 Jul 2024 11:09:50 +0900</pubDate>
-      <guid>http://localhost:1313/posts/colorappearancephenomena/</guid>
-      <description>Color appearance phenomena Link to heading Chromatic adaptation Link to heading Chromatic adaptation describes the ability of human color perception to abstract from the white point (or color temperature) of the illuminating light source when observing a reflective object. For the human eye, a piece of white paper looks white no matter whether the illumination is blueish or yellowish. This is the most basic and most important of all color appearance phenomena, and therefore a chromatic adaptation transform (CAT) that tries to emulate this behavior is a central component of any color appearance model.</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://TengxuanHOU.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
